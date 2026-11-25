@@ -5,10 +5,10 @@
   "description": "Prebuilt SPA assets for the tsnapi interactive inspector (served on demand by `tsnapi ui` via devframe remote assets).",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/tsnapi#readme",
+  "homepage": "https://github.com/made-in-common/tsnapi#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/tsnapi.git",
+    "url": "git+https://github.com/made-in-common/tsnapi.git",
     "directory": "packages/inspector-assets"
   },
   "exports": {
